@@ -1,0 +1,9 @@
+task: update_terms
+host: https://digital.library.missouri.edu/
+username: DigitalServices
+password: 
+vocab_id: geo_location
+input_dir: "C:/Users/huying/Documents/islandora_workbench"
+input_csv: Update_terms.csv
+rollback_dir: C:/Users/huying/Documents/islandora_workbench
+update_mode: replace
