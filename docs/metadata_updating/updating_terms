@@ -13,7 +13,7 @@ The config file for update operations looks like this (note the `task` option is
       task: update_terms
       host: https://digital.library.missouri.edu/
       username: DigitalServices
-      password: 6gJ^p?gq^n1=77Uw,eME
+      password: 
       vocab_id: geo_location
       input_dir: "C:/Users/huying/Documents/islandora_workbench"
       input_csv: Update_terms.csv
