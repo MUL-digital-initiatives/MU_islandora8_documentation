@@ -11,8 +11,6 @@ Rights statement,field_rights_statement,Not required,Taxonomy,"prefilled with ""
 Language of resource ,field_language_code,Not required,Taxonomy,Codes to describe language of resource content. Intended for use with ISO639-2,"http://purl.org/dc/terms/ISO639-2, https://www.loc.gov/standards/iso639-2/php/code_list.php",
 Resource type ,field_resource_type,Not required,Taxonomy,use DCMI controlled vocab,https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-7,
 Extent,field_extent,Not required,free text,Size or duration of described resource,http://purl.org/dc/terms/extent,
-Subject ,field_subject_general,Not required,Taxonomy,use LSH controlled vocab whenever possible,,
-Subject (Name),field_subjects_name,Not required,Taxonomy,use VIAF or LC Name Authority File(LCNAF) controlled vocab,,
 Subject (Topic),field_subject_topic,Not required,Taxonomy,use LSH controlled vocab,,
 Subject (Temporal),field_temporal_subject,Not required,Taxonomy,"use ""1600-1699"" for 17th century material",,
 Geographic (Subject),field_subject_geographic,Not required,Taxonomy,use VIAF or LSH controlled vocab,,
@@ -20,3 +18,4 @@ Local identifier ,field_local_identifier,Not required,free text,Barcode,,
 Identifier,field_identifier,Not required,free text,Call number,,
 Description,field_description,Not required,free text,"e.g., summary, abstract...etc.",http://purl.org/dc/elements/1.1/description,
 Note,field_note,Not required,free text,additional notes that are not suitable for description,,
+
