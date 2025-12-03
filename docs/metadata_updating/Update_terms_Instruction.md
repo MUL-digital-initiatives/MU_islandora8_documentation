@@ -1,4 +1,4 @@
-The office Workbench documentation: https://mjordan.github.io/islandora_workbench_docs/updating_terms/
+The official Workbench documentation: https://mjordan.github.io/islandora_workbench_docs/updating_terms/
 A specific use case for MU Digital Initiatives is to avoid this Drupal bug: confusing error & behavior when creating a new referenced entity containing parentheses https://www.drupal.org/project/drupal/issues/2924783
 Workaround we came up is that whenever we create a new geographical taxonomy term that has parentheses, we use [] instead. Then, we will use Islandora Workbench to update the term. 
 Steps: 
