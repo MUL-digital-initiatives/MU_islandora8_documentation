@@ -1,5 +1,5 @@
 ﻿Final active fields for  submission form ,Machine name,Required?,Taxonomy or free text,How to fill this field,Standards & documentations,
-Title,field_full_title,Required,Free text,"Full tile, including subtitle",,
+Title,title,Required,Free text,"Full tile, including subtitle",,
 Creators and contributors,field_contributor,Not required,Taxonomy,,,
 Corporate name,field_corporate_name,Not required,Taxonomy,"For entity that is not an individual. E.g., orgnization.",,
 Publisher,field_publisher,Not required,free text,,,
