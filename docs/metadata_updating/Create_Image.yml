@@ -1,0 +1,15 @@
+task: create
+host: https://digital.library.missouri.edu/
+username: DigitalServices
+password: 6gJ^p?gq^n1=77Uw,eME
+content_type: islandora_object
+input_dir: "C:/Users/huying/Documents/islandora_workbench/ToUpload"
+input_csv: Create_image_batch1.csv
+media_type: file
+allow_missing_files: True
+secure_ssl_only: false
+strict_check: true
+media_use_tid: 894
+rollback_dir: C:/Users/huying/Documents/islandora_workbench/ #if you want to be able to rollback the migration set this to a directory where a rollback file can be created by the system when Islandora Workbench runs
+enable_http_cache: false
+timestamp_rollback: true
